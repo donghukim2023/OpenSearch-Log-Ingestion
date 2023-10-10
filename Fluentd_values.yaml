@@ -364,10 +364,10 @@ fileConfigs:
         @log_level info
         include_tag_key true
         type_name _doc
-        host "amaaaaaakv6tzsaasemqcoxn4znfcodotj4u5pjow2x5l3ly6sl42oxo36uq.opensearch.ap-seoul-1.oci.oraclecloud.com"
+        host "<OPENSEARCH URL>"
         port 9200
         user opensearch
-        password Ehdgn1!!
+        password changeme
         scheme https
         ssl_verify false
         ssl_version TLSv1_2
